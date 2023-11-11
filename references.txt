@@ -1,0 +1,22 @@
+CPU rankings:
+    https://pcbuildingsim.fandom.com/wiki/Part_Ranking/CPU
+
+GPU rankings:
+    https://pcbuildingsim.fandom.com/wiki/Part_Ranking/GPU
+    
+    ^^^^^ -> I had to use a script to turn them into csv. (./used/txt_to_csv_parser.py)
+
+
+general pcbs1_data.csv (./data/):
+    https://1drv.ms/x/s!AgP0NBEuAPQRqNNXWSNJedchtEvZ7Q
+
+    this was then later converted to a csv file.
+
+
+all game rankings from pcbs_apps.json came from:
+    https://pcbuildingsim.fandom.com/wiki/Will_it_Run%3F
+
+    i had to manually plot the data into a json file... even though i could've web-
+                                                                    -scraped it lmao.
+
+

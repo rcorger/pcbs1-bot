@@ -1,0 +1,126 @@
+AMD Ryzen 9 Sixteen Core 5950X	4664
+Intel Core i9-10900K	4489
+Intel Core i9-10900	4432
+AMD Ryzen 9 Twelve Core 5900X	4381
+Intel Core i9-10980XE Extreme Edition	4326
+Intel Core i9-11900K	4200
+Intel Core i9-11900KF	4200
+Intel Core i9-11900	4154
+AMD Ryzen 9 Sixteen Core 3950X	4109
+AMD Ryzen 9 Twelve Core 3900X	4102
+AMD Ryzen Threadripper 3960X	4032
+AMD Ryzen 9 Twelve Core 3900XT	3993
+Intel Core i9-10940X	3987
+Intel Core i9-9980XE	3936
+Intel Core i9-9960X	3934
+AMD Ryzen Threadripper 2990WX	3909
+Intel Core i7-11700K	3864
+Intel Core i7-11700KF	3864
+Intel Core i9-10920X	3855
+Intel Core i9-7960X	3821
+Intel Core i9-7980XE	3812
+Intel Core i9-9940X	3806
+Intel Core i7-11700	3799
+Intel Core i7-10700K	3778
+AMD Ryzen 7 Eight Core 5800X	3756
+Intel Core i9-10900X	3737
+AMD Ryzen Threadripper 3970X	3724
+Intel Core i9-7940X	3719
+Intel Core i9-9920X	3657
+Intel Core i7-10700	3613
+Intel Core i9-7920X	3606
+AMD Ryzen Threadripper 3990X	3595
+Intel Core i9-9900K	3568
+Intel Core i9-9900KS	3568
+Intel Core i9-7900X	3565
+Intel Core i9-9900X	3537
+AMD Ryzen 7 Eight Core 3800XT	3428
+Intel Core i9-9820X	3428
+AMD Ryzen Threadripper 2950X	3423
+AMD Ryzen Threadripper 2920X	3422
+AMD Ryzen 7 Eight Core 3800X	3350
+AMD Ryzen 7 Eight Core 3700X	3307
+Intel Core i7-9800X	3253
+AMD Ryzen Threadripper Sixteen Core 1950X	3222
+Intel Core i7-7820X	3206
+AMD Ryzen Threadripper Twelve Core 1920X	3071
+Intel Core i5-11600K	3004
+Intel Core i5-11600KF	3004
+Intel Core i5-11600	2953
+AMD Ryzen 7 Eight Core 2700X	2938
+AMD Ryzen 7 Eight Core 2700	2907
+Intel Core i7-8086K	2856
+Intel Core i5-11500	2851
+Intel Core i5-11400	2749
+Intel Core i5-11400F	2749
+AMD Ryzen 7 Eight Core 1800X	2742
+AMD Ryzen 5 Six Core 5600X	2699
+Intel Core i7-9700K	2698
+Intel Core i7-8700K	2694
+AMD Ryzen Threadripper Eight Core 1900X	2691
+AMD Ryzen 7 Eight Core 1700X	2653
+Intel Core i7-8700	2640
+Intel Core i5-10600	2626
+Intel Core i5-10600K	2626
+AMD Ryzen 7 Eight Core 1700	2569
+AMD Ryzen Threadripper 2970WX	2526
+Intel Core i5-10500	2503
+AMD Ryzen 5 Six Core 3600XT	2459
+AMD Ryzen 5 Six Core 3600X	2455
+Intel Core i5-10400	2422
+AMD Ryzen 5 Six Core 3600	2376
+Intel Core i7-7800X	2268
+AMD Ryzen 5 Six Core 2600X	2143
+AMD Ryzen 5 Six Core 2600	2092
+AMD Ryzen 5 Six Core 1600X	1984
+Intel Core i5-9600K	1969
+Intel Core i5-8600K	1931
+AMD Ryzen 5 Six Core 1600	1865
+Intel Core i5-8400	1828
+Intel Core i7-7700K	1804
+Intel Core i7-7740X	1803
+Intel Core i3-10320	1768
+Intel Core i7-7700	1703
+Intel Core i3-10300	1699
+Intel Core i3-10100	1664
+AMD Ryzen 3 Quad Core 3300X	1653
+Intel Core i7-6700K	1653
+AMD Ryzen 3 Quad Core 3100	1621
+Intel Core i7-6700	1572
+Intel Core i5-7640X	1400
+Intel Core i5-7600K	1346
+Intel Core i5-7600	1328
+AMD Ryzen 5 Quad Core 1500X	1320
+Intel Core i3-8350K	1304
+Intel Core i5-7500	1271
+AMD Ryzen 5 Quad Core 1400	1247
+Intel Core i5-6600	1227
+Intel Core i5-6600K	1227
+Intel Core i5-7400	1214
+Intel Core i3-8100	1202
+Intel Core i5-6500	1153
+Intel Core i5-6400	1079
+AMD Ryzen 3 Quad Core 1300X	1058
+AMD Ryzen 3 Quad Core 1200	988
+Intel Pentium G6600	891
+Intel Core i3-7350K	887
+Intel Pentium G6500	874
+Intel Core i3-7320	869
+Intel Pentium G6400	858
+Intel Core i3-7300	851
+Intel Core i3-7100	833
+Intel Core i3-6320	811
+Intel Pentium G4620	809
+Intel Core i3-6300	802
+Intel Core i3-6100	792
+Intel Pentium G4600	783
+Intel Pentium G4560	758
+Intel Core i3-6100T	745
+Intel Pentium G4520	590
+Intel Pentium G4500	574
+Intel Pentium G4400	541
+Intel Celeron G3950	489
+Intel Celeron G3930	483
+Intel Celeron G5920	338
+Intel Celeron G5900	335
+Intel Celeron G3900	295

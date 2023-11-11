@@ -1,0 +1,803 @@
+{
+  	"Adobe Photoshop CC": {
+        "Minimum Spec": {
+            "CPU": "Intel Celeron G3900",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 750 Ti",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Pentium G4500",
+            "RAM": "9 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        }
+    },
+    "Adobe Premiere Pro CC": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i3-6100",
+            "RAM": "12 GB",
+            "GPU": "NVIDIA GeForce GTX 1050",
+            "VRAM": "2 GB",
+            "Storage": "7 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6400",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 970",
+            "VRAM": "4 GB",
+            "Storage": "7 GB"
+        }
+    },
+    "BamboozleHR": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6400",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 380 2G",
+            "VRAM": "2 GB",
+            "Storage": "6 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6600",
+            "RAM": "8 GB",
+            "GPU": "AMD Radeon R9 380 4G",
+            "VRAM": "4 GB",
+            "Storage": "10 GB"
+        }
+    },
+    "Battlefield 1" : {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-7600",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "50 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-7700",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "VRAM": "8 GB",
+            "Storage": "50 GB"
+        }
+    },
+    "Bush Flight Simulator" : {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1500X",
+            "RAM": "8 GB",
+            "GPU": "AMD Radeon RX 470 4G",
+            "VRAM": "4 GB",
+            "Storage": "30 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-7700K",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "VRAM": "8 GB",
+            "Storage": "30 GB"
+        }
+    },
+    "CapItAll": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce RTX 2070",
+            "VRAM": "8 GB",
+            "Storage": "16 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-7600K",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce RTX 2080",
+            "VRAM": "8 GB",
+            "Storage": "120 GB"
+        },
+        "Recommended 4K Spec": {
+            "CPU": "Intel Core i5-7600K",
+            "RAM": "32 GB",
+            "GPU": "NVIDIA GeForce RTX 2080",
+            "VRAM": "8 GB",
+            "Storage": "240 GB"
+        }
+    },
+    "CellOut" : {
+        "Minimum Spec": {
+            "CPU": "Intel Core i3-6100T",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 1050",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i3-7100",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 370 4G",
+            "VRAM": "4 GB",
+            "Storage": "3 GB"
+        }
+    },
+    "CookBooks": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6400",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon RX 470 4G",
+            "VRAM": "4 GB",
+            "Storage": "32 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6600",
+            "RAM": "8 GB",
+            "GPU": "AMD Radeon RX 470 8G",
+            "VRAM": "8 GB",
+            "Storage": "64 GB"
+        }
+    },
+    "Counter Strike: Source": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "1 GB",
+            "GPU": "AMD Radeon R9 280 3G",
+            "VRAM": "3 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Six Core 1600",
+            "RAM": "2 GB",
+            "GPU": "AMD Radeon R9 390 8G",
+            "VRAM": "8 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "Datamine": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i7-6700",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "200 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-8700",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 1080",
+            "VRAM": "8 GB",
+            "Storage": "300 GB"
+        }
+    },
+    "Deer Hunting Simulator": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-8400",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "VRAM": "8 GB",
+            "Storage": "20 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-8700",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 1080",
+            "VRAM": "8 GB",
+            "Storage": "20 GB"
+        }
+    },
+    "Documond Reader": {
+        "Minimum Spec": {
+            "CPU": "Intel Celeron G3930",
+            "RAM": "1 GB",
+            "GPU": "NVIDIA GeForce GT 1030",
+            "VRAM": "2 GB",
+            "Storage": "1 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Celeron G3950",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 750 Ti",
+            "VRAM": "2 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "Doom": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-8600K",
+            "RAM": "6 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "40 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-9600K",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1080",
+            "VRAM": "8 GB",
+            "Storage": "40 GB"
+        },
+        "Recommended 4K Spec": {
+            "CPU": "Intel Core i7-9700K",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1080 Ti",
+            "VRAM": "11 GB",
+            "Storage": "40 GB"
+        }
+    },
+    "DOTA 2": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6600",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "8 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-7500",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "8 GB"
+        }
+    },
+    "Euro Truck Simulator 2": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1200",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 370 2G",
+            "VRAM": "2 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 280 3G",
+            "VRAM": "3 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "F1 2017": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 980",
+            "VRAM": "4 GB",
+            "Storage": "30 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Six Core 1600",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "VRAM": "8 GB",
+            "Storage": "30 GB"
+        }
+    },
+    "Fable Fortune": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1300X",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA Geforce GTX 1050",
+            "VRAM": "2 GB",
+            "Storage": "4 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1300X",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA Geforce GTX 1050 Ti",
+            "VRAM": "4 GB",
+            "Storage": "4 GB"
+        }
+    },
+    "Fall Guys": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1200",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 370 2G",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        }
+    },
+    "Far Cry 5": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-8600K",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 1080",
+            "VRAM": "8 GB",
+            "Storage": "8 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-9700K",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 1080 Ti",
+            "VRAM": "11 GB",
+            "Storage": "8 GB"
+        },
+        "Recommended 4K Spec": {
+            "CPU": "Intel Core i9-9900K",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce RTX 2080 Ti",
+            "VRAM": "11 GB",
+            "Storage": "16 GB"
+        }
+    },
+    "Farming Simulator 17": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1200",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 370 2G",
+            "VRAM": "2 GB",
+            "Storage": "6 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 280 3G",
+            "VRAM": "3 GB",
+            "Storage": "6 GB"
+        }
+    },
+    "Feudal Fantasy XIII (Final Fantasy XIII/XIV)": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 5 Six Core 1600",
+            "RAM": "8 GB",
+            "GPU": "AMD Radeon R8 280 3G",
+            "VRAM": "3 GB",
+            "Storage": "40 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 7 Eight Core 1700",
+            "RAM": "16 GB",
+            "GPU": "AMD Radeon RX570",
+            "VRAM": "4 GB",
+            "Storage": "40 GB"
+        }
+    },
+    "Flipside": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1200",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 370 4G",
+            "VRAM": "4 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon RX 470 4G",
+            "VRAM": "4 GB",
+            "Storage": "4 GB"
+        }
+    },
+    "Football Manager 2017": {
+        "Minimum Spec": {
+            "CPU": "Intel Pentium G4400",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 750 Ti",
+            "VRAM": "2 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i3-6320",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 1050",
+            "VRAM": "2 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "Fortfight": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i3-7300",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "30 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6500",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "VRAM": "8 GB",
+            "Storage": "30 GB"
+        },
+        "Recommended 4K Spec": {
+            "CPU": "Intel Core i7-7700",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1080",
+            "VRAM": "8 GB",
+            "Storage": "30 GB"
+        }
+    },
+    "Good Company": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i3-7300",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "1 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-7600",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "4 GB"
+        }
+    },
+    "Grand Theft Auto V": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 5 Six Core 1600X",
+            "RAM": "8 GB",
+            "GPU": "AMD Radeon R9 390 8G",
+            "VRAM": "8 GB",
+            "Storage": "65 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 7 Eight Core 1700X",
+            "RAM": "8 GB",
+            "GPU": "AMD Radeon RX VEGA 56",
+            "VRAM": "8 GB",
+            "Storage": "65 GB"
+        }
+    },
+    "Heart Of Stone (Hearthstone : Heroes of Warcraft)": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1200",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 370 2G",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        }
+    },
+    "Hatoful Boyfriend: A School of Hope and White Wings": {
+        "Minimum Spec": {
+            "CPU": "Intel Pentium G4400",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 750 Ti",
+            "VRAM": "2 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Pentium G4520",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 1050",
+            "VRAM": "2 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "Hearthstone : Heroes of Warcraft": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1200",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon R9 370 2G",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "3 GB"
+        }
+    },
+    "Joy of Flight": {
+        "Minimum Spec": {
+            "CPU": "Intel Pentium G4500",
+            "RAM": "2 GB",
+            "GPU": "AMD Radeon R9 280 3G",
+            "VRAM": "3 GB",
+            "Storage": "30 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6600K",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 980",
+            "VRAM": "4 GB",
+            "Storage": "30 GB"
+        }
+    },
+    "League of Legends": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i3-6300",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon RX560",
+            "VRAM": "4 GB",
+            "Storage": "12 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6600",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "12 GB"
+        },
+        "Recommended 4K Spec": {
+            "CPU": "Intel Core i7-7700K",
+            "RAM": "8 GB",
+            "GPU": "AMD Radeon RX580 8G",
+            "VRAM": "8 GB",
+            "Storage": "12 GB"
+        }
+    },
+    "Minecraft": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i3-6100",
+            "RAM": "1 GB",
+            "GPU": "NVIDIA GeForce GTX 750 Ti",
+            "VRAM": "2 GB",
+            "Storage": "1 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6400",
+            "RAM": "1 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "1 GB"
+        }
+    },
+    "Mugshot CC": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6600",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti",
+            "VRAM": "4 GB",
+            "Storage": "8 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-7600",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 1070 Ti",
+            "VRAM": "8 GB",
+            "Storage": "16 GB"
+        }
+    },
+    "Overwatch": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-7400",
+            "RAM": "6 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "5 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-7700",
+            "RAM": "6 GB",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "VRAM": "8 GB",
+            "Storage": "5 GB"
+        }
+    },
+    "PlayerUnknown's Battlegrounds": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i3-7300",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "30 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6500",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1070",
+            "VRAM": "8 GB",
+            "Storage": "30 GB"
+        },
+        "Recommended 4K Spec": {
+            "CPU": "Intel Core i7-7700",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1080",
+            "VRAM": "8 GB",
+            "Storage": "30 GB"
+        }
+    },
+    "Rocket League": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1500X",
+            "RAM": "5 GB",
+            "GPU": "AMD Radeon RX 470 4G",
+            "VRAM": "4 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Six Core 1600X",
+            "RAM": "5 GB",
+            "GPU": "AMD Radeon RX 480 8G",
+            "VRAM": "8 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "Sailaway - The Sailing Simulator": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6500",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 1050",
+            "VRAM": "2 GB",
+            "Storage": "7 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-6700",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 1050 Ti",
+            "VRAM": "4 GB",
+            "Storage": "8 GB"
+        }
+    },
+    "Sid Meier's Civilization VI": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6400",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "12 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-6700",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 980 Ti",
+            "VRAM": "6 GB",
+            "Storage": "12 GB"
+        }
+    },
+    "SocCar (Rocket League)": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1500X",
+            "RAM": "2 GB",
+            "GPU": "AMD Radeon RX 470 4G",
+            "VRAM": "4 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Six Core 1600X",
+            "RAM": "4 GB",
+            "GPU": "AMD Radeon RX 480 8G",
+            "VRAM": "8 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "Space Chef Face-Off": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-8600K",
+            "RAM": "6 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "40 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-7700K",
+            "RAM": "16 GB",
+            "GPU": "AMD Radeon RX580 8G",
+            "VRAM": "8 GB",
+            "Storage": "40 GB"
+        }
+    },
+    "Counter Strike: Global Offensive (Strike-Back:Go)": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "1 GB",
+            "GPU": "AMD Radeon R9 280 3G",
+            "VRAM": "3 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Six Core 1600",
+            "RAM": "2 GB",
+            "GPU": "AMD Radeon R9 390 8G",
+            "VRAM": "8 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended 4K Spec": {
+            "CPU": "AMD Ryzen 7 Eight Core 1700X",
+            "RAM": "16 GB",
+            "GPU": "AMD Radeon RX580 8G",
+            "VRAM": "8 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "Sublevel Zero Redux": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-6500",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "1 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "AMD Ryzen 5 Quad Core 1400",
+            "RAM": "2 GB",
+            "GPU": "AMD Radeon R9 380 4G",
+            "VRAM": "4 GB",
+            "Storage": "1 GB"
+        }
+    },
+    "SubSim X": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i7-7740X",
+            "RAM": "32 GB",
+            "GPU": "NVIDIA GeForce RTX 2070",
+            "VRAM": "8 GB",
+            "Storage": "212 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-7800X",
+            "RAM": "64 GB",
+            "GPU": "NVIDIA GeForce RTX 2080",
+            "VRAM": "8 GB",
+            "Storage": "212 GB"
+        }
+    },
+    "Typo": {
+        "Minimum Spec": {
+            "CPU": "Intel Pentium G4400",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 750 Ti",
+            "VRAM": "2 GB",
+            "Storage": "2 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i3-6100",
+            "RAM": "2 GB",
+            "GPU": "NVIDIA GeForce GTX 1050",
+            "VRAM": "2 GB",
+            "Storage": "2 GB"
+        }
+    },
+    "Unify 4D (Unity)": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i5-7400",
+            "RAM": "8 GB",
+            "GPU": "NVIDIA GeForce GTX 1060-6GB",
+            "VRAM": "6 GB",
+            "Storage": "240 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-7700",
+            "RAM": "16 GB",
+            "GPU": "NVIDIA GeForce GTX 1080",
+            "VRAM": "8 GB",
+            "Storage": "500 GB"
+        }
+    },
+    "World of Tanks": {
+        "Minimum Spec": {
+            "CPU": "AMD Ryzen 3 Quad Core 1300X",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "30 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i7-6700",
+            "RAM": "4 GB",
+            "GPU": "NVIDIA GeForce GTX 970",
+            "VRAM": "4 GB",
+            "Storage": "30 GB"
+        }
+    },
+    "World of Warcraft": {
+        "Minimum Spec": {
+            "CPU": "Intel Core i3-6320",
+            "RAM": "1 GB",
+            "GPU": "NVIDIA GeForce GTX 960",
+            "VRAM": "2 GB",
+            "Storage": "6 GB"
+        },
+        "Recommended Spec": {
+            "CPU": "Intel Core i5-6500",
+            "RAM": "2 GB",
+            "GPU": "AMD Radeon R9 290",
+            "VRAM": "4 GB",
+            "Storage": "6 GB"
+        }
+    }
+}
