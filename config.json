@@ -1,7 +1,7 @@
 {
-    "TOKEN": "MTEzMzgyNDM2MjYzODc0OTcwNw.GalaCl.ZTeYqRrWUVxWykVY8mvNpIP2ephB8JmO6BWIR4",
+    "TOKEN": "your token",
     "PREFIX": "./",
-    "SYS_ADMIN": 479308485096374284,
+    "SYS_ADMIN": your discord id,
     "FETCHABLE_DATA": false,
     "MAX_RESULTS": 32
 }
